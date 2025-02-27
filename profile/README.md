@@ -16,7 +16,9 @@
   <h2>Introduction</h2>
   <p>
     Air purifiers are essential for improving indoor air quality, especially for those with allergies or in polluted environments. This article highlights the 
-    <strong>Alen Air Purifier BreatheSmart 75i</strong> as the best option for large rooms, featuring advanced filtration and smart technology, 
+    <strong><a class="affiliate-link" href="https://lvnta.com/lv_yN4WMjAP9KMuY2hk35" target="_blank" rel="noopener noreferrer">
+      Alen Air Purifier BreatheSmart 75i
+    </a></strong> as the best option for large rooms, featuring advanced filtration and smart technology, 
     and includes comparisons with other notable models to suit different needs and budgets.
   </p>
 <h2>
