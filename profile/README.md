@@ -254,7 +254,9 @@
 
   <h2>Conclusion</h2>
   <p>
-    The <strong>Alen Air Purifier BreatheSmart 75i</strong> is best for large rooms, offering advanced features and strong performance, 
+    The <strong><a class="affiliate-link" href="https://lvnta.com/lv_yN4WMjAP9KMuY2hk35" target="_blank" rel="noopener noreferrer">
+      Alen Air Purifier BreatheSmart 75i
+    </a></strong> is best for large rooms, offering advanced features and strong performance, 
     though its cost may deter some. Alternatives like the <strong>Levoit Core 300S</strong> and 
     <strong>Coway Airmega 400S</strong> provide value for smaller to medium spaces. Consider your room size, budget, and needs, using CADR, 
     filter type, and noise level as key decision factors for a healthier home.
@@ -262,7 +264,9 @@
 
   <h2>Key Citations</h2>
   <ul>
-    <li>Alen BreatheSmart 75i HEPA Air Purifier Official Page</li>
+    <li><a class="affiliate-link" href="https://lvnta.com/lv_yN4WMjAP9KMuY2hk35" target="_blank" rel="noopener noreferrer">
+      Alen BreatheSmart 75i HEPA Air Purifier Official Page
+    </a></li>
     <li>Levoit Core 300S Smart Air Purifier Product Page</li>
     <li>Coway Airmega 400S True HEPA Air Purifier Details</li>
     <li>Dyson Purifier Hot+Cool Formaldehyde Air Purifier and Heater</li>
