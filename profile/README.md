@@ -20,7 +20,9 @@
     and includes comparisons with other notable models to suit different needs and budgets.
   </p>
 
-  <h2>Top Pick: Alen Air Purifier BreatheSmart 75i</h2>
+ <a class="affiliate-link" href="https://lvnta.com/lv_yN4WMjAP9KMuY2hk35" target="_blank" rel="noopener noreferrer">
+      <h2>Top Pick: Alen Air Purifier BreatheSmart 75i</h2>
+    </a>. 
   <p>
     The <strong>Alen Air Purifier BreatheSmart 75i</strong> is recommended for large rooms up to 2,600 sq. ft., with a CADR of 350 cfm, 
     making it suitable for cleaning air every 30 minutes in 1,300 sq. ft. spaces. It uses a HEPA filter with carbon to capture 
